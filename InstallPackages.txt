@@ -1,0 +1,18 @@
+Packages directly imported by all the Python Code:
+boto3
+botocore
+csv
+datetime
+errno
+json
+logging
+logging.handlers
+os
+pandas
+psutil
+random
+shutil
+subprocess
+sys
+tempfile
+time
